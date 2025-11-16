@@ -1,0 +1,5 @@
+print("My name is raj")
+print("I am going to invite my friends")
+name = input ("Enter your name")
+birthdaydate = input ("Enter your birthday date")
+print("best of luck")
